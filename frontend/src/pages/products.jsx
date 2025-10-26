@@ -3,7 +3,7 @@
 const products = () => {
   return (
     <div>
-      products
+      PRODUCT
     </div>
   )
 }
